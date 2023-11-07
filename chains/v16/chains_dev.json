@@ -9529,12 +9529,14 @@
                 }
             }
         ],
+        "externalApi": {
         "history": [
             {
                 "type": "subquery",
                 "url": "https://api.subquery.network/sq/nova-wallet/nova-wallet---westmint"
             }
-        ],
+        ]
+        },
         "nodes": [
             {
                 "url": "wss://rococo-asset-hub-rpc.polkadot.io",
