@@ -407,6 +407,14 @@
                 "event": "https://westmint.statescan.io/#/events/{event}"
             }
         ],
+        "externalApi": {
+        "history": [
+            {
+                "type": "subquery",
+                "url": "https://api.subquery.network/sq/nova-wallet/nova-wallet---westmint-test"
+            }
+        ]
+        },
         "icon": "https://raw.githubusercontent.com/novasamatech/nova-utils/master/icons/chains/gradient/Westmint_Testnet.svg",
         "addressPrefix": 42,
         "types": {
